@@ -1,9 +1,9 @@
+
 /*
  *  UCF COP3330 Fall 2021 Assignment 1 Solution
  *  Copyright 2021 Zaher Ilbih
  */
 package solutions;
-
 import java.util.Scanner; //imports Scanner class
 
 public class Solution05 {
@@ -50,3 +50,4 @@ public class Solution05 {
 
     }
 }
+
